@@ -1,4 +1,4 @@
 # JavaScript-
 This is my JavaScript  Git Repository.
 <br/>
-Author- Apsara Aryal
+Author- (Apsara Aryal)
